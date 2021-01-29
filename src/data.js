@@ -1,0 +1,35 @@
+export default {
+    products :[{
+        _id:'123',
+        name:"Slim Shirt",
+        image:"/images/Capture.PNG",
+        category:"Shirts",
+        price: 60,
+        brand: "Adidas",
+        rating:4.5,
+        numReviews: 10,
+        countInStock: 6,
+    },
+    {
+        _id:'12',
+        name:"Best Pants",
+        category:"Pants",
+        image:"/images/Capture.PNG",
+        price: 50,
+        brand: "Adidas",
+        rating:4.5,
+        numReviews: 10,
+        countInStock: 2,
+    },
+    {
+        _id:'1000',
+        name:"Top caps ",
+        image:"/images/Capture.PNG",
+        category:"Caps",
+        price: 100,
+        brand: "Adidas",
+        rating:4.5,
+        numReviews: 10,
+        countInStock: 5,
+    }]
+}
